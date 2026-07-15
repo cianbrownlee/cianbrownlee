@@ -1,4 +1,4 @@
-Hey, I'm Cian.
+Hi, I'm Cian!
 
 Most of my actual work lives in private repos, ArcheWild's platform is proprietary, and my Temple capstone's repo is locked behind a GitHub Classroom org. So this profile is thinner than what I've actually built.
 
