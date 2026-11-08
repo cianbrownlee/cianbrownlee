@@ -4,7 +4,7 @@
 
 Hello reader! Welcome to my profile. It's mostly my personal projects, since I can't publish the contract work I've done for ArcheWild. If you want to check that stuff out, you can go to [research.archewild.com](https://research.archewild.com) and click around!
 
-I'm actively looking for full-time roles where I can be part of a team and learn from people who have more experience than I do. Hopefully you're on one of those teams...
+I'm actively looking for full-time roles where I can be part of a team and learn from people who have more experience than I do. Hopefully you're on one of those teams . . .
 
 If you want to know more about my experience as the sole SWE at ArcheWild, you can get all the details on my LinkedIn profile at [linkedin.com/in/cian-brownlee](https://linkedin.com/in/cian-brownlee).
 
@@ -22,4 +22,4 @@ Since GitHub can't see a lot of the contract work I've done, here's a breakdown 
 - **Cloud and tools:** GCP (Cloud Run, Cloud Run Jobs, Pub/Sub, IAM), Docker, Firebase Auth, Linux (Ubuntu), Git
 - **AI tooling:** Claude Code
 
-If you see something interesting, have a suggestion, or just want to get in touch, don't hesitate to reach out at [cian.h.brownlee@gmail.com](mailto:cian.h.brownlee@gmail.com)
+If you see something interesting, have a suggestion, or just want to get in touch, don't hesitate to reach out at [cian.h.brownlee@gmail.com](mailto:cian.h.brownlee@gmail.com)!
