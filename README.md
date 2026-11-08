@@ -1,6 +1,6 @@
 # Cian Brownlee
 
-Software Engineer | Web apps, data pipelines, cloud | Philadelphia, PA
+**Software Engineer | Web apps, data pipelines, cloud | Philadelphia, PA**
 
 Hello reader! Welcome to my profile. It's mostly my personal projects, since I can't publish the contract work I've done for ArcheWild. If you want to check that stuff out, you can go to [research.archewild.com](https://research.archewild.com) and click around!
 
